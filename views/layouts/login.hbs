@@ -1,0 +1,24 @@
+<h1 class="text-center my-5">Login de usuarios</h1>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form action="/auth/login" method="post">
+            <input type="hidden" name="registro" value="{{}}" />
+            <input
+                class="form-control mb-2"
+                name="email"
+                placeholder="ingrese correo electronico"
+                type="text"
+                value="bluuweb@test.com"
+            >
+            <input
+                class="form-control mb-2"
+                name="password"
+                placeholder="ingrese contraseña"
+                type="password"
+                value="123123"
+            >
+            <button class="btn btn-primary" type="submit">Ingresar</button>
+        </form>
+    </div>
+</div>
