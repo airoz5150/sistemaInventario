@@ -2,19 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/login": "pages/login.js",
-  "/users": "pages/users.js",
-  "/api/Users": "pages/api/Users.js",
-  "/api/login": "pages/api/login.js",
   "/Home": "pages/Home.js",
-  "/api/count": "pages/api/count.js",
-  "/Peripherals": "pages/Peripherals.js",
-  "/api/mouse": "pages/api/mouse.js",
-  "/api/teclado": "pages/api/teclado.js",
-  "/api/monitor": "pages/api/monitor.js",
-  "/api/bocina": "pages/api/bocina.js",
-  "/api/telefonica": "pages/api/telefonica.js",
-  "/api/reguladores": "pages/api/reguladores.js",
-  "/api/moviles": "pages/api/moviles.js"
+  "/login": "pages/login.js",
+  "/Peripherals": "pages/Peripherals.js"
 }
