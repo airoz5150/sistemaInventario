@@ -173,8 +173,7 @@ export default function welcomePage() {
 
       <TextContainer>
 
-        <h1><Image src="/images/vasa.png" alt="Logo" /></h1>
-        <P>Bienvenido al Sistema de Inventario</P>
+        <h1>Bienvenido al Sistema de Inventario</h1>
       </TextContainer>
 
       <ContentSection>
@@ -191,7 +190,7 @@ export default function welcomePage() {
       </ContentSection>
       <FooterContent>
 
-        <p>© 2024 VASA. Todos los derechos reservados.</p>
+        <p>© 2024 . Todos los derechos reservados.</p>
       </FooterContent>
 
     </>

@@ -358,7 +358,7 @@ export default function NavBar() { // Componente principal que renderiza la barr
               variant="h5"
               sx={{ marginLeft: 1, fontWeight: 'bold', color: 'white' }}
             >
-              VASA  {/* Aquí va la palabra que quieres agregar */}
+                {/* Aquí va la palabra que quieres agregar */}
             </Typography>
           </Box>
           <IconButton color="inherit" onClick={handleMenuOpen}>
