@@ -2,54 +2,13 @@ self.__BUILD_MANIFEST = {
   "polyfillFiles": [
     "static/chunks/polyfills.js"
   ],
-  "devFiles": [
-    "static/chunks/react-refresh.js"
-  ],
+  "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [],
   "rootMainFiles": [],
   "rootMainFilesTree": {},
   "pages": {
-    "/Activities": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/Activities.js"
-    ],
-    "/Employees": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/Employees.js"
-    ],
-    "/Equipments": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/Equipments.js"
-    ],
-    "/Home": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/Home.js"
-    ],
-    "/Reports": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/Reports.js"
-    ],
-    "/_app": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_app.js"
-    ],
-    "/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_error.js"
-    ],
-    "/users": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/users.js"
-    ]
+    "/_app": []
   },
   "ampFirstPages": []
 };
