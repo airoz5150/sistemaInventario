@@ -55,5 +55,5 @@ export async function middleware(request) {
 }
 
 export const config = {
-  matcher: ["/Home","/Equipments", "/Employees", "/login", "/Reports", "/unauthorized", "/AsignedActivities", "/Peripherals", "/Activities"],
+  matcher: ["/Home","/Equipments", "/Employees", "/login", "/Reports", "/unauthorized", "/users", "/AsignedActivities", "/Peripherals", "/Activities"],
 };
